@@ -22,3 +22,53 @@
 </div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+---
+
+### Rafaela da Silva Oliveira
+
+Olá! 👋 Sou Rafaela, uma entusiasta de tecnologia apaixonada por desenvolvimento de software e inovação. Atualmente, tenho 21 anos e sou natural de São Paulo, Brasil.
+
+#### Formação Acadêmica 🎓
+
+- Concluí o ensino médio técnico em informática no prestigioso Instituto Tecnológico de São Paulo.
+
+#### Experiência Profissional 💼
+
+- **Estágio em Desenvolvimento de Software na TechSolutions (2019-2021)**
+  - Trabalhei em projetos desafiadores, aprimorando minhas habilidades em programação, resolução de problemas e colaboração em equipe.
+  - Destaques incluem a colaboração na criação de um aplicativo móvel com TypeScript e React Native.
+
+#### Habilidades Técnicas 🚀
+
+- **Linguagens de Programação:** TypeScript, JavaScript.
+- **Frameworks:** React Native, Node.js.
+- **Banco de Dados:** MySQL, MongoDB.
+- **Web:** HTML, CSS.
+- **Pensamento Lógico:** Resolução de problemas e abordagem analítica.
+
+#### Certificações 🏆
+
+- Certificado em Desenvolvimento Web pela CodeAcademy.
+
+#### Projetos Pessoais 🛠️
+
+- Mantenho um blog pessoal onde compartilho minhas experiências e tutoriais sobre programação.
+- Contribuo ativamente para projetos de código aberto no GitHub.
+
+#### Interesses Pessoais 🌟
+
+- Além da tecnologia, tenho interesse em design de interfaces e experiência do usuário.
+- Nos momentos de descontração, gosto de explorar novas tecnologias, ler livros sobre desenvolvimento pessoal e praticar esportes, como corrida e yoga.
+
+#### Objetivos Profissionais 🚀
+
+Estou em busca de uma posição desafiadora na área de desenvolvimento de software, onde possa aplicar minhas habilidades técnicas, continuar aprendendo e contribuir para o crescimento de projetos inovadores.
+
+#### Vamos Conectar? 🌐
+
+- [LinkedIn](seu_link_do_LinkedIn)
+- [Blog Pessoal](seu_link_do_blog)
+- [GitHub](seu_link_do_GitHub)
+
+Fique à vontade para explorar meus repositórios e entrar em contato. Estou animada para colaborar em projetos interessantes e aprender mais nesse incrível mundo da tecnologia! 🚀
