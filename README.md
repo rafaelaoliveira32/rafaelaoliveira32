@@ -37,11 +37,11 @@ Olá! 👋 Sou Rafaela, uma entusiasta de tecnologia apaixonada por desenvolvime
 
 - **Estágio em Desenvolvimento de Software na TechSolutions (2019-2021)**
   - Trabalhei em projetos desafiadores, aprimorando minhas habilidades em programação, resolução de problemas e colaboração em equipe.
-  - Destaques incluem a colaboração na criação de um aplicativo móvel com TypeScript e React Native.
+  - Destaques incluem a colaboração na criação de um aplicativo móvel com TypeScript, React Native, e Java.
 
 #### Habilidades Técnicas 🚀
 
-- **Linguagens de Programação:** TypeScript, JavaScript.
+- **Linguagens de Programação:** TypeScript, JavaScript, Java.
 - **Frameworks:** React Native, Node.js.
 - **Banco de Dados:** MySQL, MongoDB.
 - **Web:** HTML, CSS.
